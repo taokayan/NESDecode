@@ -11,12 +11,12 @@ choose one of the game in \NESDecode\nes\
 unclick "Trace" to disable 6502 CPU instruction trace to make a game run in realtime.
 
 Keys: 
-E - Up
-D - Down
-S - Left
-F - Right
-B - Select
-N - Start
-J - Button B
+E - Up, 
+D - Down, 
+S - Left, 
+F - Right, 
+B - Select, 
+N - Start, 
+J - Button B, 
 L - Button A
 
